@@ -114,5 +114,8 @@
     "slonik": "^43.0.0",
     "typeorm": "^0.3.17",
     "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "pgvector": "^0.1.8"
   }
 }
